@@ -15,7 +15,7 @@ public class Mundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         System.out.println("Hasta Luego, caballero");
+         System.out.println("Hasta pronto, caballero");
     }
     
 }
